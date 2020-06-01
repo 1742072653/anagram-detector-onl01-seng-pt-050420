@@ -16,6 +16,3 @@ def match(word_match)
   return array 
 end
 end
-
-
-
